@@ -1,0 +1,12 @@
+Fonts used by UNDERGROWTH
+
+ug-text.woff, ug-text-bold.woff
+  Modified, subsetted versions of Poppins (Copyright 2020 The Poppins Project
+  Authors, https://github.com/itfoundry/Poppins), renamed "UG Text".
+  Licensed under the SIL Open Font License, Version 1.1 - https://openfontlicense.org
+
+ug-display.woff
+  Subsetted version of DejaVu Serif Condensed Bold, renamed "UG Display".
+  DejaVu fonts are derived from Bitstream Vera (Copyright (c) 2003 Bitstream, Inc.)
+  and are free to use, modify and redistribute under the Bitstream Vera / DejaVu
+  font licence - https://dejavu-fonts.github.io/License.html
